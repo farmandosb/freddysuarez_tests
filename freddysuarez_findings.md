@@ -1,5 +1,9 @@
 
 # Findings
+## Requirements
+1. Windows SO
+2. Docker Desktop installed
+3. Any CLI, e.g. Git Bash
 
 ## Execute automated tests
  1. Open a git bash CLI
